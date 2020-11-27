@@ -53,8 +53,8 @@ async function predict() {
 
     const data = {
       Hey: 'Hey에 대한 설명을 적어볼까요?',
-      Hey you?: 'Hey you?에 대한 설명을 적어볼까요?',
-      Yeu You~: 'Yeu You~에 대한 설명을 적어볼까요?',
+      Heyjj: 'Heyjj에 대한 설명을 적어볼까요?',
+      Yeummm: 'Yeummm에 대한 설명을 적어볼까요?',
     };
 
     if (probability >= 75) {
